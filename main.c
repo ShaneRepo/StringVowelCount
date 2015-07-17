@@ -1,6 +1,4 @@
-// Shane Teall
-// 11-6-14
-// in class vowel string count
+
 #include <stdio.h>
 #include <stdlib.h>
 void vowelCount(char[],char[]);
